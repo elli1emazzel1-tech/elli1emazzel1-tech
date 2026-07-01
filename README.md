@@ -1,5 +1,23 @@
-## Hi there 👋
+# Hey, I'm Naitik 👋
+I'm a 15-year-old developer from India 🇮🇳  
+I build AI chatbots and tech projects.
 
+## 🚀 What I'm doing
+- Building AI chatbot tools  
+- Learning APIs & automation  
+- Sharing my journey  
+
+## 🤝 Looking for
+- Teen developers like me  
+- People interested in AI  
+- Collaboration on small projects  
+
+## 📌 Current Project
+👉 naitik-ai-chatbot
+
+---
+
+If you're building something too, let's connect 🚀
 <!--
 **elli1emazzel1-tech/elli1emazzel1-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
